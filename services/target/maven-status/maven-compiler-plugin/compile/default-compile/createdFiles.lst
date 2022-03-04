@@ -1,0 +1,4 @@
+com/acme/samples/notification/plugin/UpdateProfilePlugin.class
+com/acme/samples/notification/ConsoleChannel.class
+com/acme/samples/notification/ConsoleChannel$1.class
+com/acme/samples/notification/SocialProfileListener.class
